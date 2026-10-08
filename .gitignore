@@ -1,0 +1,8 @@
+libs/**
+!libs/.gitkeep
+
+tmp/**
+!tmp/.gitkeep
+
+bin/**
+!bin/.gitkeep
