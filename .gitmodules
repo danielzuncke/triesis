@@ -1,0 +1,30 @@
+[submodule "submodules/abseil"]
+	path = submodules/abseil
+	url = https://github.com/abseil/abseil-cpp.git
+[submodule "submodules/art"]
+	path = submodules/art
+	url = https://github.com/armon/libart.git
+[submodule "submodules/cedar"]
+	path = submodules/cedar
+	url = https://github.com/DevO2012/cedar.git
+[submodule "submodules/cuckoo"]
+	path = submodules/cuckoo
+	url = https://github.com/cuckoo-trie/cuckoo-trie-code.git
+[submodule "submodules/hat"]
+	path = submodules/hat
+	url = https://github.com/Tessil/hat-trie.git
+[submodule "submodules/marisa"]
+	path = submodules/marisa
+	url = https://github.com/s-yata/marisa-trie.git
+[submodule "submodules/perfevent"]
+	path = submodules/perfevent
+	url = https://github.com/viktorleis/perfevent.git
+[submodule "submodules/tlx"]
+	path = submodules/tlx
+	url = https://github.com/tlx/tlx.git
+[submodule "submodules/wormhole"]
+	path = submodules/wormhole
+	url = https://github.com/wuxb45/wormhole.git
+[submodule "submodules/xcdat"]
+	path = submodules/xcdat
+	url = https://github.com/kampersanda/xcdat.git
