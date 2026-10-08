@@ -1,0 +1,7 @@
+name "loader"
+description "Load dataset and meta to memory"
+authors "Daniel Zuncke"
+copyright "Copyright © 2026, Daniel Zuncke"
+license "proprietary"
+
+targetPath "bin"

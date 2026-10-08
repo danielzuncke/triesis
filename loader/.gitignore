@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/loader
+loader.so
+loader.dylib
+loader.dll
+libloader.a
+loader.a
+loader.lib
+loader-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
